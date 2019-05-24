@@ -1,7 +1,7 @@
 # Readme
 
-"kaigix10" is a sample made for study.
-※ I am not an app developer
+"kaigix10" is a sample made for study.  
+※ I'm not an app developer...
 
 
 ## PURPOSE
