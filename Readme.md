@@ -22,4 +22,4 @@ Now, use this app to eliminate unnecessary meetings.
 ## NOTE
 This app is a sample.  
 The number of people and the unit price are hard coded.  
-I hope that someone will fall into a more sophisticated app.  
+I hope that someone will make a more sophisticated app.  
